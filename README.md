@@ -1,2 +1,2 @@
 # Netflix_Clone
-I developed this website using HTML and CSS. To see the website visit https://imtarunsaini.me/
+This is a clone of the popular video streaming site Netflix. Built using HTML and CSS.
